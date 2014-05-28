@@ -43,8 +43,6 @@ typedef void(^AsyncDone)();
 @end
 ```
 
-## Requirements
-
 ## Installation
 
 XCTestCase+RunAsync is available through [CocoaPods](http://cocoapods.org). To install
