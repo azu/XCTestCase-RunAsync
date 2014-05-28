@@ -1,0 +1,17 @@
+PODS:
+  - NSRunLoop+PerformBlock (0.2.0)
+  - XCTestCase+RunAsync (0.1.0):
+    - NSRunLoop+PerformBlock
+
+DEPENDENCIES:
+  - XCTestCase+RunAsync (from `../`)
+
+EXTERNAL SOURCES:
+  XCTestCase+RunAsync:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NSRunLoop+PerformBlock: 97e4339572c5481d9051cdc13b06b088fa449ae2
+  XCTestCase+RunAsync: 237a76c9af36719e5bedc02ff63b14c6861a9196
+
+COCOAPODS: 0.33.1

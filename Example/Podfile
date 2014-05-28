@@ -1,0 +1,7 @@
+
+target "Example" do
+
+end
+target "ExampleTests" do
+  pod "XCTestCase+RunAsync", :path => "../"
+end
