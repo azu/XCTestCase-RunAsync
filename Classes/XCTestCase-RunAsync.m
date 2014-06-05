@@ -3,7 +3,7 @@
 //
 
 
-#import "XCTestCase+RunAsync.h"
+#import "XCTestCase-RunAsync.h"
 #import "NSRunLoop+PerformBlock.h"
 
 

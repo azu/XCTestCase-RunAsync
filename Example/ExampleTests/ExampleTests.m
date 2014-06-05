@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import "XCTestCase+RunAsync.h"
+#import "XCTestCase-RunAsync.h"
 
 @interface ExampleTests : XCTestCase
 
