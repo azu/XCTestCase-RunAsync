@@ -1,12 +1,6 @@
-#
-# Be sure to run `pod lib lint NAME.podspec' to ensure this is a
-# valid spec and remove all comments before submitting the spec.
-#
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
 Pod::Spec.new do |s|
   s.name             = "XCTestCase+RunAsync"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "Async testcase by Mocha's done style."
   s.homepage         = "https://github.com/azu/XCTestCase-RunAsync"
   s.license          = 'MIT'
