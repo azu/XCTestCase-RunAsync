@@ -1,17 +1,17 @@
 PODS:
   - NSRunLoop+PerformBlock (0.2.0)
-  - XCTestCase+RunAsync (0.1.1):
+  - XCTestCase-RunAsync (0.1.2):
     - NSRunLoop+PerformBlock
 
 DEPENDENCIES:
-  - XCTestCase+RunAsync (from `../XCTestCase+RunAsync.podspec`)
+  - XCTestCase-RunAsync (from `../XCTestCase-RunAsync.podspec`)
 
 EXTERNAL SOURCES:
-  XCTestCase+RunAsync:
-    :path: ../XCTestCase+RunAsync.podspec
+  XCTestCase-RunAsync:
+    :path: ../XCTestCase-RunAsync.podspec
 
 SPEC CHECKSUMS:
   NSRunLoop+PerformBlock: 97e4339572c5481d9051cdc13b06b088fa449ae2
-  XCTestCase+RunAsync: 33f2d5de147856bd5f17bc030ea45b8a6cc47aed
+  XCTestCase-RunAsync: 50973fb6d3253dea84a11e3077763a033ef41682
 
 COCOAPODS: 0.33.1

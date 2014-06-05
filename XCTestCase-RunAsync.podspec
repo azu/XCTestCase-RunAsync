@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "XCTestCase+RunAsync"
+  s.name             = "XCTestCase-RunAsync"
   s.version          = "0.1.2"
   s.summary          = "Async testcase by Mocha's done style."
   s.homepage         = "https://github.com/azu/XCTestCase-RunAsync"

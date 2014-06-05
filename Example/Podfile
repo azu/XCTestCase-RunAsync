@@ -1,3 +1,3 @@
 target "ExampleTests", :exclusive => true do
-  pod "XCTestCase+RunAsync", :path => "../XCTestCase+RunAsync.podspec"
+  pod "XCTestCase-RunAsync", :path => "../XCTestCase-RunAsync.podspec"
 end
