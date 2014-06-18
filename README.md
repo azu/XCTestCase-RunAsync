@@ -1,8 +1,8 @@
-# XCTestCase+RunAsync
+# XCTestCase-RunAsync
 
-[![Version](https://img.shields.io/cocoapods/v/XCTestCase+RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
-[![License](https://img.shields.io/cocoapods/l/XCTestCase+RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
-[![Platform](https://img.shields.io/cocoapods/p/XCTestCase+RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
+[![Version](https://img.shields.io/cocoapods/v/XCTestCase-RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
+[![License](https://img.shields.io/cocoapods/l/XCTestCase-RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
+[![Platform](https://img.shields.io/cocoapods/p/XCTestCase-RunAsync.svg?style=flat)](http://cocoadocs.org/docsets/XCTestCase+RunAsync)
 
 This library is wrapper for [ishkawa/NSRunLoop-PerformBlock](https://github.com/ishkawa/NSRunLoop-PerformBlock "ishkawa/NSRunLoop-PerformBlock").
 
