@@ -6,7 +6,7 @@
 
 This library is wrapper for [ishkawa/NSRunLoop-PerformBlock](https://github.com/ishkawa/NSRunLoop-PerformBlock "ishkawa/NSRunLoop-PerformBlock").
 
-You can write async testcase by [Mocha](http://visionmedia.github.io/mocha/ "Mocha")'s `done` style.
+You can write async testcase by [Mocha](http://mochajs.org/ "Mocha")'s `done` style.
 
 ## Usage
 
